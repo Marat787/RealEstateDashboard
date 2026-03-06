@@ -1,6 +1,3 @@
-<img width="484" height="44" alt="image" src="https://github.com/user-attachments/assets/bc14e23b-2628-48d4-aaf6-f3af5ed11f53" /># real-estate-dashboard
-BI dashboard for real estate portfolio management using Yandex DataLens and Google Sheets as a lightweight DWH
-
 # 🏢 Разработка BI-системы для управления портфелем недвижимости
 
 **Стек технологий:** Yandex DataLens, Google Sheets, Data Modeling, ETL-логика.
